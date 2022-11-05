@@ -2,7 +2,7 @@
 
 body {
     /* background-image:  url("./WallpaperDark.20d3d6f6.webp"); */
-    background: black url("./WallpaperDark.20d3d6f6.webp");
+    background: url("./WallpaperDark.20d3d6f6.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
