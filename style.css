@@ -1,0 +1,87 @@
+
+
+body {
+    /* background-image:  url("./WallpaperDark.20d3d6f6.webp"); */
+    background: black url("./WallpaperDark.20d3d6f6.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: Friz Quadrata Std Medium,Mobilo,Helvetica,Arial;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+#loldle-logo{
+    max-width: 320px;
+}
+.ikona{
+    padding-left: 15px;
+    padding-right: 15px;
+    opacity: 70%;
+    padding-bottom: 15px;
+
+}
+.champion{
+    border: 3px #ae9667 solid;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 300px;
+    background-color: #1d2227;
+
+}
+.title{
+    font-size: 18px;
+    text-align: center;
+}
+
+#patka{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin-left: 25px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px #737373 solid;
+    border-radius: 5px;
+}
+#oko{
+    width: 60px;
+    margin-left: 120px;
+}
+
+#zoom{
+    color: #979a9c;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+
+
+
+
+.found{
+    font-size: 12px;
+}
+#guess{
+    /* padding-top: 10px; */
+    font-size: 12px;
+    color: #f2ff7d;
+}
+
+
+
+/* H: 224 */
+/* W: 248 */
