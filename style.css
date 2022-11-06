@@ -45,9 +45,6 @@ body {
 }
 
 #patka{
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
     margin-left: 25px;
     margin-right: 20px;
     margin-top: 10px;
@@ -67,16 +64,11 @@ body {
     padding-top: 5px;
 }
 
-
-
-
-
-
 .found{
     font-size: 12px;
 }
 #guess{
-    /* padding-top: 10px; */
+
     font-size: 12px;
     color: #f2ff7d;
 }
@@ -98,8 +90,7 @@ body {
    padding-bottom: 20px;
 }
 #name{
-    /* position: absolute; */
-    /* font-size: 64px; */
+
     height: 58px;
     margin:0px;
     box-sizing: border-box;
@@ -110,13 +101,10 @@ body {
     color: #9ea1a3;
     padding-left:10px;
     width: 250px;
-    /* border-image-source: linear-gradient(to left, #743ad5, #d53a9d); */
+
 }
 #sipka{
     height: 64px;
     margin:0px
 
 }
-
-/* H: 224 */
-/* W: 248 */
