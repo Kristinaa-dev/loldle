@@ -2,10 +2,10 @@
 
 body {
     /* background-image:  url("./WallpaperDark.20d3d6f6.webp"); */
-    background: url("./WallpaperDark.20d3d6f6.webp");
+    background: black url("./WallpaperDark.20d3d6f6.webp");
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-size: 100%;
+    background-position: cover;
     color: white;
     font-family: Friz Quadrata Std Medium,Mobilo,Helvetica,Arial;
 }
@@ -29,7 +29,7 @@ body {
 
 }
 .champion{
-    border: 3px #ae9667 solid;
+    border: 2px #ae9667 solid;
     border-radius: 5px;
     padding-right: 20px;
     padding-left: 20px;
@@ -80,8 +80,43 @@ body {
     font-size: 12px;
     color: #f2ff7d;
 }
+.yesterday{
+    font-size: 16px;
+}
+#number{
+    color: #70b9e9;
+    font-size: 12px;
+}
+#champ{
+    color: #71d68a;
+    font-size: 20px;
+}
 
+.summit{
+   padding-top: 15px; 
+   display: flex;
+   padding-bottom: 20px;
+}
+#name{
+    /* position: absolute; */
+    /* font-size: 64px; */
+    height: 58px;
+    margin:0px;
+    box-sizing: border-box;
+    border: #15b9ba 3px solid;
+    border-right:0px solid transparent;
+    background-color: #1d2227;
+    font-size: 16px;
+    color: #9ea1a3;
+    padding-left:10px;
+    width: 250px;
+    /* border-image-source: linear-gradient(to left, #743ad5, #d53a9d); */
+}
+#sipka{
+    height: 64px;
+    margin:0px
 
+}
 
 /* H: 224 */
 /* W: 248 */
